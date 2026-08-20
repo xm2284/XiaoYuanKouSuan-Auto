@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 截图 / 图片素材
+*.png
+*.jpg
+*.jpeg
+*.zip
